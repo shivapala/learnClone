@@ -1,1 +1,2 @@
 Testing the clone
+Added in the clone local
